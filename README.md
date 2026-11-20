@@ -1,7 +1,7 @@
 # Facial memory try-out
 
 A prototype facial memory test for the Glahn and Mathias labs, running in a web
-browser: <https://sammosummo.github.io/braindeck-tryout/>
+browser: <https://crackedbassoon.com/braindeck-tryout/>
 
 1. Use a laptop or tablet with Chrome, Safari or Firefox. Turn the sound on:
    the instructions are spoken as well as shown.
