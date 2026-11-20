@@ -17,4 +17,4 @@ This try-out sends nothing anywhere: results stay in your browser. If the page
 reloads in the middle of a run, enter the same ID and press **Start Run** to
 carry on where you left off.
 
-Built from BrainDeck 0.2.0 (commit 30f4be6), 20 November 2026.
+Built from BrainDeck 0.2.0 (commit f61d6c4), 20 November 2026.
